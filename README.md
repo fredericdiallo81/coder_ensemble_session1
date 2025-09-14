@@ -36,7 +36,9 @@ Créer une application web simple et collaborative pour s’exercer à coder en 
 ## ✅ Membres participants
 
 - @aliou90
+- @wolof-it
 - @votre_pseudo
+- AbdoulSalam407
 - (Ajoutez vos noms ici via une PR)
 
 ---
